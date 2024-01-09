@@ -1,0 +1,61 @@
+*{  
+    margin: 0;
+    padding: 0;
+};
+
+body {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    background-color: #e67085;
+    height: 5vh;
+    width: 99vw;
+}
+
+nav {
+    background-color: #c8efad; 
+    height: 10vh;
+    width: 99vw;
+}
+
+main {
+    background-color: #c9ebff;
+    height: 40vh;
+    width: 99vw;
+
+}
+
+section {
+    background-color: #03a8ff;
+    height: 40vh;
+    width: 49vw;
+}
+
+.section1{
+    float: left;
+}
+
+.section2{
+    float: right;
+}
+
+
+aside {
+    background-color: #fbd0d6;
+    height: 20vh;
+    width: 99vw;
+}
+
+footer {
+    background-color: #b27df4;
+    height: 25vh;
+    width: 99vw;
+}
+
+div {
+    color: #ffdb83;
+}
+
